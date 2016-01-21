@@ -1,0 +1,1 @@
+https://cloud.securew2.com/public/89414/Groups/UCM-WIFI/?switch_url=https://2.2.2.2/login.html&ap_mac=00:3a:98:d6:b9:70&client_mac=8c:a9:82:88:53:4a&wlan=UCM-Wireless&redirect=go.microsoft.com/fwlink/?LinkID=219472&clcid=0x409
