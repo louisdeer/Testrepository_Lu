@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<audio controls loop>
+  <source src="assets/coockiecatinstrumental.m4a" type="audio/mp4">
+</audio>
+
 <head>
     <meta charset="UTF-8">
     <title>Phil 190 Bot Playground</title>
@@ -8,6 +12,7 @@
     <script src="bots/bot.js"></script>
     <script src="bots/jeff/jeff.js"></script>
     <script src="bots/mouse/mouse.js"></script>
+    <script src="bots/yang/yang.js"></script>
     <script src="botPlayground.js"></script>
 </head>
 
@@ -19,8 +24,12 @@
         <select id="botSelect" onchange="botSelect()">
             <option value="jeff">Jeff</option>
             <option value="mouse">Mouse</option>
+            <option value="yang">Yang</option>
         </select>
     </p>
+    <form name="textArea">
+        <textarea name="logText" rows="9" cols="120"></textarea>
+    </form>
 </body>
 
 </html>
