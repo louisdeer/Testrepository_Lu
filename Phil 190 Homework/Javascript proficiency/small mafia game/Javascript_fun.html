@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" href="specification.css">
+
+<head>
+    <meta  charset="UTF-8">
+    <title>My fun page</title>
+</head>
+<body>
+<div class="block1">
+    <div class="block1-1">
+        <h1>Block1-1 Mafia Game Simulation</h1> 
+        <hr>
+        <p>A self directed game</p>
+        <p>(placeholder)Gamedescription Url</p>
+        <p>(placeholder)Roledescription Url</p>
+        <p>Long Story Short, you are the director of a mafia short story.</p>
+        <br>
+    </div>
+
+    <div class="block1-2">
+        <h1>Block1-2 The Mafia Game</h1>
+        <hr>
+        <a href ="JavaScript:void(0)" 
+        onClick = "alert('You are an intelligent agent with free will, now save the town!.');"
+        onmouseover = "this.style.color = 'red';"
+        onmouseout = "this.style.color = 'green';">
+        Click to be complimented.
+        </a><br>
+        <p>
+            <li>(sample)Role List:</li>
+            <p>"Hitman"</p>
+            <p>"Citizen"</p>
+            <p>"Citizen"</p>
+            <p>"Citizen"</p>
+            <p>"Citizen"</p>
+            <p>"Citizen"</p>
+            <!--
+            <li>Administrator_Triad</li>
+            <li>Hitman_Mafia</li>
+            <li>Detective_Town</li>
+            <li>Busdriver_Town</li>
+            <li>Witch_Evil</li>
+            <li>Jester_Neutral</li> -->
+        </p>
+        <br>
+    </div>
+
+    <div class="block1-3">
+        <h1></h1> 
+        <hr>
+        <!-- Global Variable -->
+        <p>
+            <script>
+                //important global variables
+                var role_loadfunctionlist = [];//load role
+                var role_list = [
+                    "Citizen",
+                    "Citizen",
+                    "Citizen",
+                    "Hitman",
+                    "Citizen",
+                    "Citizen"];
+                var noofroles = role_list.length; //number of roles//prompt
+                var listofNPCs = []; //array of NPCs
+                var playerchoice = 0; // players choice
+            </script>
+            <!-- Watchout Loading Order! -->
+            <!-- PrototypeRole -->
+            <script src="mysteryobject.js"></script>
+            <!-- GamePlatform -->
+            <script src="Javascript_Game_System.js"></script>
+            <!-- Rolelist -->
+            <script src="Rolelist\Mafia\Hitman.js"></script>
+            <script src="Rolelist\Neutral_Benign\Jester.js"></script>
+            <script src="Rolelist\Town\Citizen.js"></script>
+            <script src="Rolelist\Town\Detective.js"></script>
+            <script src="Rolelist\Triad\Administrator.js"></script>
+            <script src="Rolelist\Neutral_Evil\Witch.js"></script>
+            <!-- main -->
+            <script src="TheMafiaGame.js"></script>
+            <script src="JavascriptPractice.js"></script>
+        </p>
+        <br>
+    </div>
+</div>
+</body>
+
+</html>>
