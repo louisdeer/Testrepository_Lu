@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def_node",
+				"def_node_construct"
+			],
+			[
+				"def_",
+				"def_node"
+			],
+			[
+				"def_nod",
+				"def_node_construct"
+			],
+			[
+				"Sucess",
+				"success	Event"
+			],
+			[
+				"current_",
+				"current_testnode"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"slow_",
+				"slow_node"
+			],
+			[
+				"metaresources",
+				"metaresources_secondary"
+			],
+			[
+				"Math",
+				"Math.PI	Math"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"rand",
+				"Math.random()	Math"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"if",
+				"if	JS - if"
+			],
+			[
+				"ife",
+				"ife	if … else"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"else",
+				"else if()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "small mafia game/mysteryobject.js",
+			"settings":
+			{
+				"buffer_size": 3291,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game"
+	],
+	"file_history":
+	[
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/yang/yang.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game/Rolelist/Mafia/Hitman.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game/Javascript_Game_System.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/bot.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/jeff/jeff.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/botPlayground.html",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/botPlayground.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/preferences.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/botTestground.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/TestPlayground.html",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/yang/yangOLD.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/entity.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/sharAI/sharAI.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/phaser.min.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game/mysteryobject.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/faust/faust.js",
+		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/troi/troi.js",
+		"/C/Users/louis/Desktop/Phil190/courseproject",
+		"/C/Users/louis/Desktop/Phil190/Test",
+		"/C/Users/louis/Desktop/Phil190/botPlayground.html",
+		"/C/Users/louis/Desktop/Phil190/botPlayground.js",
+		"/C/Users/louis/Desktop/Phil190/bots/bot.js",
+		"/C/Users/louis/Desktop/Phil190/bots/yang/yang.js",
+		"/C/Users/louis/Desktop/Phil190/bots/jeff/jeff.js",
+		"/C/Users/louis/Desktop/Phil190/bots/mouse/mouse.js",
+		"/C/Users/louis/Desktop/Phil190/phaser.min.js",
+		"/C/Users/louis/Desktop/steven-universe-alone-together",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/bots/jeff/jeff.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/bots/Yang/Yang.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/botPlayground.html",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/botPlayground.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/botPlaygroundMessAround.html",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/bots/bot.js",
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/phil_190_2016/bots/YangBot/Yang.js",
+		"/C/Users/louis/Desktop/sublime practice/New folder/JavascriptPractice",
+		"/C/Users/louis/Desktop/sublime practice/New folder/test.html",
+		"/C/Users/louis/Desktop/sublime practice/New folder/practice.html",
+		"/C/Users/louis/Desktop/sublime practice/project1.sublime-project",
+		"/C/Users/louis/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/louis/Documents/GitHub/phil_190_2016/tileExample.html",
+		"/C/Users/louis/Desktop/sublime practice/practice .txt",
+		"/C/Users/louis/Desktop/sublime practice/project2.txt",
+		"/C/Users/louis/Desktop/practice .txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"def_node_construct",
+			" = {}",
+			"slow_node",
+			"node_",
+			"slow_node",
+			"stop_node",
+			"test_.test",
+			"def_node",
+			",",
+			":",
+			"def_node",
+			"stateText",
+			"control",
+			"yang.state.test",
+			"yang.state",
+			"mechanic_input",
+			"fun_",
+			"pre_update",
+			"timedEvend",
+			"timedEvend_test",
+			"timedEvend",
+			"test_.timedEvend",
+			"timedEvend",
+			"def_node",
+			"the_node",
+			"/* body... */",
+			"test_timedEvend",
+			"node_test",
+			"test_fun",
+			"main_AImovements",
+			"complexupdate",
+			"yang.chance",
+			"yang.acceleration",
+			"acceleration",
+			"Acceleration",
+			"acceleration",
+			"basespeed",
+			"this",
+			":",
+			"def_node",
+			"def",
+			"AImovement",
+			"randomness",
+			"mechanic_input",
+			"struct",
+			"var_",
+			"motionText",
+			"rotationText",
+			"update_yet",
+			"structs",
+			"yang.var",
+			"init_state",
+			"init_plus",
+			"sgtateText",
+			"yang.complexupdate",
+			"yang.state",
+			"state_machine_input",
+			"yang.state",
+			"stateText",
+			"yang.state",
+			"stateText",
+			"yang.ini",
+			"ini",
+			"current_testnode",
+			"yang_home",
+			"yang_home[1]",
+			"yang_home[0]",
+			"always called",
+			"def",
+			"getsta",
+			"getStatus",
+			"state_machine_input",
+			"state mach",
+			"state",
+			"description",
+			"create_new_berry",
+			"entity",
+			"berry_game_obj",
+			"tag_game_obj",
+			"state_machine_input",
+			"atBoundary",
+			"yang.leap",
+			"current_testnode",
+			"jeff",
+			"switch_node",
+			"def_node",
+			"yang",
+			"bound",
+			"prime",
+			"secondaryfocus",
+			"drainfocus",
+			"broodfocus",
+			"primefocus",
+			"primeresfocus",
+			"deer_main",
+			"stateText",
+			"primeresfocus",
+			"switch_node",
+			"def_node",
+			"emptyness",
+			"metaresources_secondary",
+			"def_node",
+			"current_mental_node",
+			"current_speed_node",
+			"ini",
+			"def_node",
+			"===",
+			"state_machine_input",
+			"rotation",
+			"rotate",
+			"yang",
+			"defaultBotIndex",
+			"botPlayground.js",
+			"botTestground.js",
+			"preupdate",
+			"this",
+			"i",
+			"time",
+			"jeff",
+			"timer",
+			"game.time.events",
+			"Timer.SECOND",
+			"game.time",
+			"totalElapsedSeconds()",
+			".time.ev",
+			".time.e",
+			".time.",
+			".time"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"botTestground.js"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "small mafia game/mysteryobject.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Smallmafiagame.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"y",
+				"bots\\yang\\yang.js"
+			],
+			[
+				"yang",
+				"bots\\yang\\yang.js"
+			],
+			[
+				"",
+				"C:\\Users\\louis\\Desktop\\sublime practice\\project1.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\louis\\Desktop\\sublime practice\\project1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
