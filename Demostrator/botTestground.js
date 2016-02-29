@@ -15,7 +15,7 @@ var botGroup;
 //
 // Arrays of bots
 //
-var bots = [jeff, sharAI, troi, yang, faust, maria, dylan, Daniel, duyen, rey];
+var bots = [jeff];
 var sprites = [];
 var currentBotIndex = defaultBotIndex;
 
