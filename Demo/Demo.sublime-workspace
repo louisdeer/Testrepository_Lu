@@ -76,11 +76,14 @@
 	"buffers":
 	[
 		{
-			"file": "small mafia game/Javascript_fun.html",
+			"contents": "\n	\"folders\":\n	[\n		{\n			\"path\": \".\"\n		}\n	]\n}\n",
+			"file": "Demo.sublime-project",
+			"file_size": 45,
+			"file_write_time": 131016057703269478,
 			"settings":
 			{
-				"buffer_size": 2821,
-				"line_ending": "Windows"
+				"buffer_size": 44,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -141,10 +144,11 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game"
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Demo"
 	],
 	"file_history":
 	[
+		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game/Javascript_fun.html",
 		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game/JavascriptPractice.js",
 		"/C/Users/louis/Desktop/Phil190/projectexperiment/bots/yang/yang.js",
 		"/C/Users/louis/Documents/GitHub/Testrepository_Lu/Phil 190 Homework/Javascript proficiency/small mafia game/Rolelist/Mafia/Hitman.js",
@@ -357,29 +361,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "small mafia game/Javascript_fun.html",
+					"file": "Demo.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2821,
+						"buffer_size": 44,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2212,
-								2212
+								15,
+								15
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 765.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -424,7 +426,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "Smallmafiagame.sublime-project",
+	"project": "Demo.sublime-project",
 	"replace":
 	{
 		"height": 42.0
